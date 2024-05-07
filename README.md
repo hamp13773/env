@@ -5,7 +5,3 @@ This is a Dockerfile to build a container image for nodeJS, with the ability to 
 ## Building from source
 
 docker build -t nodejs:latest .
-
-```
-
-```
