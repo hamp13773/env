@@ -8,12 +8,4 @@ docker build -t nodejs:latest .
 
 ```
 
-## Running
-To simply run the container:
-```
-
-sudo docker run nodejs
-
-```
-
 ```
